@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kasyfil97
 - 👀 I’m interested in machine learning, data science
-- 🌱 I’m currently learning python programming, machine learning, data analytic
-- 💞️ I’m looking to collaborate on machine learning, data analytic
+- 🌱 I’m currently learning python programming, machine learning, data science
+- 💞️ I’m looking to collaborate on machine learning, data science
 - 📫 How to reach me
 
 <!---
