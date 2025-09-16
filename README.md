@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kasyfil97
 - 👀 I’m interested in build, deploy, and implement the Artificial Intelligent model 
-- 🌱 I’m currently learning python programming
+- 🌱 Propeciency in python, c, c++, bash
 - 💞️ I’m looking to collaborate on AI in LLM, Computer Vision, or Speech Recognition
 - 📫 How to reach me
 
